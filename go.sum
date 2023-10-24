@@ -1,3 +1,9 @@
+github.com/compression-algorithm-research-lab/go-bit-buffer v0.0.0-20231024124420-81e5a0251c64 h1:5+McrsB0l86CdP7rfjMeetAUvZQ0K6PEkzg3X6G5Te8=
+github.com/compression-algorithm-research-lab/go-bit-buffer v0.0.0-20231024124420-81e5a0251c64/go.mod h1:N19pyz4iFrOTVHQ/NhNRNJulaG1FV+lHA/Gb+KJ2Jsg=
+github.com/compression-algorithm-research-lab/go-bit-buffer v0.0.0-20231024130103-ebefa1b85e2d h1:ED4GuiHhrMk74E8AMQPOLvFECUXbwBd4yh9qxAPoM/I=
+github.com/compression-algorithm-research-lab/go-bit-buffer v0.0.0-20231024130103-ebefa1b85e2d/go.mod h1:N19pyz4iFrOTVHQ/NhNRNJulaG1FV+lHA/Gb+KJ2Jsg=
+github.com/compression-algorithm-research-lab/go-bit-buffer v0.0.0-20231024145723-e6a2ab4a8de4 h1:WH0gCC0ylKHOye23uZ9Pj5STo9nvadRkxE3b/kCctpI=
+github.com/compression-algorithm-research-lab/go-bit-buffer v0.0.0-20231024145723-e6a2ab4a8de4/go.mod h1:N19pyz4iFrOTVHQ/NhNRNJulaG1FV+lHA/Gb+KJ2Jsg=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
