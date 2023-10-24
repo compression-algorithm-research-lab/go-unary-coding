@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-// Encode 对无符号数字编码
+// Encode 对无符号数字一元编码
 func Encode[T gtypes.Unsigned](v T) []byte {
 
 	// 全为1的字节有多少个
